@@ -86,9 +86,9 @@ vk1C & m::Send, {F11}
 vk1C & .::Send, {F12}
 vk1C & a::Send, ~
 vk1C & z::Send, {Blind}{^}
-vk1C & ^:::Send, {Blind}{|}
+vk1C & `;::Send, {Blind}{|}
 vk1C & /::Send, \
- 
+
 vk1D & a::Send, {@}
 vk1D & s::Send, {Blind}{#}
 vk1D & d::Send, {Blind}{$}
