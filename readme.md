@@ -12,7 +12,7 @@ PC操作できるようにするエミュレータです。
 
 # 使い方
 
-「jiskb_evoluter.exe」をダウンロードしてダブルクリックしてください。
+「[jiskb_evoluter.exe](https://github.com/swanmatch/jiskb_evoluter/releases/download/v1.0/jiskb_evoluter.exe)」をダウンロードしてダブルクリックしてください。
 
 
 ## レベル1
@@ -100,7 +100,7 @@ JKLIでのカーソル移動は最初の抵抗を乗り越えればかなり楽�
 ## レベル4
 
 JISキーボードしか使ったことがない人には覚えにくいと思いますので、
-ソース/Exeを分けています。(jiskb_evoluter_us)  
+ソース/Exeを分けています。([jiskb_evoluter_us](https://github.com/swanmatch/jiskb_evoluter/releases/download/v1.0/jiskb_evoluter_us.exe))
 
 * れ → :/;
 * け → "/'
